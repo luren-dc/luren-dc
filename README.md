@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://i-coder.top)
+
+> 平常写写代码、打打游戏、摸摸鱼\
+> 偶尔看看小说
+
 <img src="https://github-readme-stats.vercel.app/api?username=luren-dc&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC">
